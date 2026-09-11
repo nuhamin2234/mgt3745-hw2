@@ -30,6 +30,7 @@ Profile 1: Early-finishing integrator
 - **Current approach — Assumed:** She treats slide activity as a progress signal.
 - **Why unsatisfying — Known:** Activity conceals gaps; early finishers become editors; rehearsal disappears.
 - **Why unsatisfying — Assumed:** Repeated correction may damage trust.
+  
 Profile 2: Time-constrained section owner
 
 - **Situation — Known:** Daniel balances coursework with part-time shifts and works in limited time blocks.
