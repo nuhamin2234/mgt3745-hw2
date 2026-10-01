@@ -10,9 +10,8 @@ Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and ap
  Daniel, a  working student, discussed a marketing case presentation. He researched competitors but omitted citations and pricing because the team had no completion criteria. The gap surfaced at the internal deadline, and a teammate replaced his work. Surprisingly, reminders would not fix misunderstanding, outside research looked like inactivity, and early review felt safer than replacement.
 
 ## Two job statements
-JOB-01: When I I contribute a presentation section, I want to  clear evidence and integration standards, so I can so I can deliver usable work without causing unexpected repairs. **Evidence:** Daniel missed expected citations and pricing because completion was undefined. Maya found active-looking sections that still required evidence and integration repairs.
-
-JOB-02: When my team approaches a deadline, I want to see risks and assign responsibility early, so so we can protect rehearsal without burdening early finishers. **Evidence:** Maya found incomplete sections near the deadline, performed unassigned repairs, and lost rehearsal time. Daniel’s gaps became visible too late for normal feedback.
+JOB-01: "When I contribute a presentation section, I want to know the evidence and integration standards, so I can deliver usable work without causing unexpected repairs."
+JOB-02: "When my team approaches a deadline, I want to see risks and assign responsibility early, so we can protect rehearsal without burdening early finishers."
 
 ## Two user profiles
 Profile 1: Early-finishing integrator
