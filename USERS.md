@@ -11,6 +11,7 @@ Use participant codes (INT-01 and INT-02), dates, relevant circumstances, and ap
 
 ## Two job statements
 JOB-01: "When I contribute a presentation section, I want to know the evidence and integration standards, so I can deliver usable work without causing unexpected repairs."
+
 JOB-02: "When my team approaches a deadline, I want to see risks and assign responsibility early, so we can protect rehearsal without burdening early finishers."
 
 ## Two user profiles
